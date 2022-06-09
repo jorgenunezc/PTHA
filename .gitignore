@@ -1,0 +1,14 @@
+/Dataset
+.ipynb_checkpoints/
+*.json
+__pycache__/
+*.pyc
+__init__.py
+*.nc
+*.dat
+*.grd
+*.png
+*.jpg
+*.tif
+*.zip
+*.JPG
